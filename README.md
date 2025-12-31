@@ -8,7 +8,7 @@ A beginner-friendly Python module for generating common mathematical sequences.
 - Prime number sequence
 - Triangular numbers
 - Power sequences (squares, cubes, etc.)
-- 
+  
 #  Author
 URSAN Property
 
