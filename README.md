@@ -19,4 +19,4 @@ The project is open-source and is free to use
 
 Clone the repository:
 ```bash
-git clone https://github.com/ujaan270/Sequence.git
+git clone https://github.com/ujaan2707/Sequence.git
